@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main - program entry point
+ * main -program entry point
  * Return: 0 Sucess, non zero fail
  */
 int main(void)
@@ -27,7 +27,7 @@ int main(void)
 			else
 			{
 				putchar(',');
-				putchar('');
+				putchar(' ');
 			}
 		}
 		k++;
